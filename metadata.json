@@ -1,0 +1,5 @@
+{
+  "name": "OptiPDF - Smart PDF Compressor",
+  "description": "A modern, high-performance PDF compression tool that reduces file size while maintaining document structure and text integrity. Features a Python-powered backend for intelligent image optimization.",
+  "requestFramePermissions": []
+}
